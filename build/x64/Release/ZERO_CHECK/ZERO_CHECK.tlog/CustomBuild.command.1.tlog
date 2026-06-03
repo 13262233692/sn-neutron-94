@@ -1,0 +1,10 @@
+^D:\SOLO-3\SN-NEUTRON-94\BUILD\CMAKEFILES\B290CBE449D348B58C3582F18B6EF9BD\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SD:/SOLO-3/sn-neutron-94 -BD:/SOLO-3/sn-neutron-94/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file D:/SOLO-3/sn-neutron-94/build/SNSolver.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "D:/SOLO-3/sn-neutron-94/build/_deps/pybind11-subbuild/CMakeFiles/pybind11-populate"
+		},
+		{
+			"file" : "D:/SOLO-3/sn-neutron-94/build/_deps/pybind11-subbuild/CMakeFiles/b9d0713c0fd7dfd7360086edb9f7753f/pybind11-populate.rule"
+		},
+		{
+			"file" : "D:/SOLO-3/sn-neutron-94/build/_deps/pybind11-subbuild/CMakeFiles/eae9a8eebbaf4f246d86884bfb44e8f5/pybind11-populate-complete.rule"
+		},
+		{
+			"file" : "D:/SOLO-3/sn-neutron-94/build/_deps/pybind11-subbuild/CMakeFiles/ba0aba000a45008978e3aec1476e0123/pybind11-populate-build.rule"
+		},
+		{
+			"file" : "D:/SOLO-3/sn-neutron-94/build/_deps/pybind11-subbuild/CMakeFiles/ba0aba000a45008978e3aec1476e0123/pybind11-populate-configure.rule"
+		},
+		{
+			"file" : "D:/SOLO-3/sn-neutron-94/build/_deps/pybind11-subbuild/CMakeFiles/ba0aba000a45008978e3aec1476e0123/pybind11-populate-download.rule"
+		},
+		{
+			"file" : "D:/SOLO-3/sn-neutron-94/build/_deps/pybind11-subbuild/CMakeFiles/ba0aba000a45008978e3aec1476e0123/pybind11-populate-install.rule"
+		},
+		{
+			"file" : "D:/SOLO-3/sn-neutron-94/build/_deps/pybind11-subbuild/CMakeFiles/ba0aba000a45008978e3aec1476e0123/pybind11-populate-mkdir.rule"
+		},
+		{
+			"file" : "D:/SOLO-3/sn-neutron-94/build/_deps/pybind11-subbuild/CMakeFiles/ba0aba000a45008978e3aec1476e0123/pybind11-populate-patch.rule"
+		},
+		{
+			"file" : "D:/SOLO-3/sn-neutron-94/build/_deps/pybind11-subbuild/CMakeFiles/ba0aba000a45008978e3aec1476e0123/pybind11-populate-test.rule"
+		},
+		{
+			"file" : "D:/SOLO-3/sn-neutron-94/build/_deps/pybind11-subbuild/CMakeFiles/ba0aba000a45008978e3aec1476e0123/pybind11-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"pybind11-populate"
+		],
+		"name" : "pybind11-populate"
+	}
+}

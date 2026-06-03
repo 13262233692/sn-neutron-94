@@ -1,0 +1,8 @@
+{
+	"InstallScripts" : 
+	[
+		"D:/SOLO-3/sn-neutron-94/build/cmake_install.cmake",
+		"D:/SOLO-3/sn-neutron-94/build/_deps/pybind11-build/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

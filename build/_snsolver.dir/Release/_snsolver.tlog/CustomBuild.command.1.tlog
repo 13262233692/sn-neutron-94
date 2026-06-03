@@ -1,0 +1,10 @@
+^D:\SOLO-3\SN-NEUTRON-94\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SD:/SOLO-3/sn-neutron-94 -BD:/SOLO-3/sn-neutron-94/build --check-stamp-file D:/SOLO-3/sn-neutron-94/build/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

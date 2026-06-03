@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="D:\SOLO-3\sn-neutron-94\build\_deps\pybind11-subbuild\CMakeFiles\ba0aba000a45008978e3aec1476e0123\pybind11-populate-mkdir.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\SOLO-3\sn-neutron-94\build\_deps\pybind11-subbuild\CMakeFiles\ba0aba000a45008978e3aec1476e0123\pybind11-populate-download.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\SOLO-3\sn-neutron-94\build\_deps\pybind11-subbuild\CMakeFiles\ba0aba000a45008978e3aec1476e0123\pybind11-populate-update.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\SOLO-3\sn-neutron-94\build\_deps\pybind11-subbuild\CMakeFiles\ba0aba000a45008978e3aec1476e0123\pybind11-populate-patch.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\SOLO-3\sn-neutron-94\build\_deps\pybind11-subbuild\CMakeFiles\ba0aba000a45008978e3aec1476e0123\pybind11-populate-configure.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\SOLO-3\sn-neutron-94\build\_deps\pybind11-subbuild\CMakeFiles\ba0aba000a45008978e3aec1476e0123\pybind11-populate-build.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\SOLO-3\sn-neutron-94\build\_deps\pybind11-subbuild\CMakeFiles\ba0aba000a45008978e3aec1476e0123\pybind11-populate-install.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\SOLO-3\sn-neutron-94\build\_deps\pybind11-subbuild\CMakeFiles\ba0aba000a45008978e3aec1476e0123\pybind11-populate-test.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\SOLO-3\sn-neutron-94\build\_deps\pybind11-subbuild\CMakeFiles\eae9a8eebbaf4f246d86884bfb44e8f5\pybind11-populate-complete.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\SOLO-3\sn-neutron-94\build\_deps\pybind11-subbuild\CMakeFiles\b9d0713c0fd7dfd7360086edb9f7753f\pybind11-populate.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\SOLO-3\sn-neutron-94\build\_deps\pybind11-subbuild\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="D:\SOLO-3\sn-neutron-94\build\_deps\pybind11-subbuild\CMakeFiles\pybind11-populate" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{A5B36F1F-D748-3728-9276-5AD64B03F07E}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
